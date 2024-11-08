@@ -40,7 +40,8 @@ This project is a cloud-based text-to-speech (TTS) converter application designe
 
 ## Architecture Diagram
 
-![Architecture Diagram](link-to-your-diagram.png)
+![image](https://github.com/user-attachments/assets/3153bbad-0f99-47ed-ae26-16381f2de184)
+
 
 ## References
 
