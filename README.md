@@ -64,6 +64,4 @@ This project is a cloud-based text-to-speech (TTS) converter application designe
 3. (Optional) Configure S3 for audio file storage.
 4. (Optional) Deploy an API Gateway endpoint for public access.
 
-## License
-
-This project is open-source and available under the MIT License.
+ 
