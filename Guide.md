@@ -25,8 +25,8 @@ The **Blog/Book Narrator** project leverages AWS services to convert text files 
 ---
 
 ### **Step 2: Create Two S3 Buckets**
-- **Source S3 Bucket Name**: `polly-source-bucket1`
-- **Destination S3 Bucket Name**: `polly-destination-bucket2`
+- **Source S3 Bucket Name**: `amc-polly-source-bucket`
+- **Destination S3 Bucket Name**: `amc-polly-destination-bucket`
 
 ---
 
