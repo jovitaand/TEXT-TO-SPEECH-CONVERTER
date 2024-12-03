@@ -12,7 +12,7 @@ The **Blog/Book Narrator** project leverages AWS services to convert text files 
 ---
 
 ## Project Architecture:
-![Image](![image](https://github.com/user-attachments/assets/8cb445cc-6be0-4ce0-9784-b7eed060d836)
+![Image](https://github.com/user-attachments/assets/8cb445cc-6be0-4ce0-9784-b7eed060d836)
 
 
 ---
