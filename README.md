@@ -66,5 +66,5 @@ This project is a cloud-based text-to-speech (TTS) converter application designe
 
  
 ### Errors
-1. Add comment error alerts in every step so that it can be monitored from lambda -> created_python_function -> monitor -> CloudWatch logs
-2. Increase the memory and time for execution from lambda -> created_python_function -> configuration -> general configuration -> edit -> timeout and memory
+1. Add comment error alerts in every step so that it can be monitored from `lambda -> created_python_function -> monitor -> CloudWatch logs`
+2. Increase the memory and time for execution from `lambda -> created_python_function -> configuration -> general configuration -> edit -> timeout and memory`
