@@ -65,3 +65,6 @@ This project is a cloud-based text-to-speech (TTS) converter application designe
 4. (Optional) Deploy an API Gateway endpoint for public access.
 
  
+### Errors
+1. Add comment error alerts in every step so that it can be monitored from lambda -> created_python_function -> monitor -> CloudWatch logs
+2. Increase the memory and time for execution from lambda -> created_python_function -> configuration -> general configuration -> edit -> timeout and memory
